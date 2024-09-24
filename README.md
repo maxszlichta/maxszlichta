@@ -34,7 +34,7 @@ I also work on many projects, games, and applications on my own. Below, you'll f
 |-|
 |<div align="center">![myapp](https://github.com/user-attachments/assets/005e7f6b-278d-433a-9611-5b6ca23ed5ef)</div>|
 |[Link to the AppStore](https://apps.apple.com/pl/app/cicha-prawda/id6467128612?l=pl)|
-|<div align="center">Published</div>|
+|<div align="center">Published ✅</div>|
 
 
 ## <div align="center">![koz](https://github.com/user-attachments/assets/e98d6072-2299-4ba2-85d7-485dd3d54b05)</div>
