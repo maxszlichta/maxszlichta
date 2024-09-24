@@ -3,4 +3,5 @@
 maxszlichta/maxszlichta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![github profile](https://github.com/user-attachments/assets/53bf46e7-aaa3-4918-b371-5b08e7a2f5d2)
+
+![githubprofilepic](https://github.com/user-attachments/assets/9c70abfd-6465-430a-9057-916836b48cc0)
