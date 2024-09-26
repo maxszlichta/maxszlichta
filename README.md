@@ -39,7 +39,7 @@ I also work on many projects, games, and applications on my own. Below, you'll f
 
 ## <div align="center">![koz](https://github.com/user-attachments/assets/e98d6072-2299-4ba2-85d7-485dd3d54b05)</div>
 
-At the same time, I'm studying psychology in business at Koźmiński University, where I work on my soft skills, such as communication, team management, and understanding human behavior in a business context. By combining these two areas, I gain a broader perspective on the modern world of work, business and IT.
+At the same time, I'm studying management and psychology in business at Koźmiński University, where I work on my soft skills, such as communication, team management, speeches, negotiations and understanding human behavior in a business context. By combining these two areas, I gain a broader perspective on the modern world of work, business and IT.
 
 ## Hard skills
 ![icons1](https://github.com/user-attachments/assets/03d9c452-f22b-4ed0-a00c-11d5875cca83)
