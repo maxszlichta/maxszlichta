@@ -28,7 +28,7 @@ Here you will find completed projects from 42Warsaw by me: (Repositories coming 
 |         | [Get_Next_Line]| [Push_Swap] | | | | |
 
 ## <div align="center">![proj](https://github.com/user-attachments/assets/47fb1d16-a994-47ef-9fdd-9fd4efec7dd9)</div>
-I also work on many projects, games, and applications on my own. Below, you'll find both published and unofficial projects.
+I also work on many projects, games, and applications on my own during my free time. Below, you'll find both published and unofficial projects.
 
 | Silent Truth |
 |-|
