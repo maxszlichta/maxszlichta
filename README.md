@@ -16,7 +16,7 @@ Here you will find completed projects from 42Warsaw by me: (Repositories coming 
 ![piscine](https://github.com/user-attachments/assets/8553b026-c415-42e1-bf05-71b1664b03cf)
 
 
-| [C00](https://github.com/maxszlichta/C00/tree/main) | [C01] |  [C02] | [C03] | [C04] | [C05] | [C06] |
+| [C00](https://github.com/maxszlichta/42Piscine/tree/main/C00) | [C01] |  [C02] | [C03] | [C04] | [C05] | [C06] |
 |--|--|--|--|--|--|--|
 
 ![common](https://github.com/user-attachments/assets/d88839b8-7f57-44ea-a5dd-198ff911b786)
