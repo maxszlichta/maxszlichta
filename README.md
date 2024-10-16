@@ -11,7 +11,7 @@ I'm interested in programming, game development, design, graphics, psychology, a
 At 42Warsaw school, I'm learning programming in a peer-to-peer model, where I manage my own learning path. I focus on developing technical skills through individual and group projects (mostly in C/C++), solving complex problems in the IT environment, and networking with other programming enthusiasts.
 
 ##  <div align="center">![42proj](https://github.com/user-attachments/assets/8cf91713-452d-4d4e-a7f2-8585d1e74b36)</div>
-Here you will find completed projects from 42Warsaw by me: (Repositories coming soon!)
+Here you will find completed projects from 42Warsaw by me:
 
 ![piscine](https://github.com/user-attachments/assets/8553b026-c415-42e1-bf05-71b1664b03cf)
 
