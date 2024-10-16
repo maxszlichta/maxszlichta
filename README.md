@@ -23,9 +23,9 @@ Here you will find completed projects from 42Warsaw by me: (Repositories coming 
 
 | Milestone 0  | Milestone 1 | Milestone 2  | Milestone 3  | Milestone 4  | Milestone 5  | Milestone 6  |
 | ------------ | ----------- | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [Libft](https://github.com/maxszlichta/Libft) | [Born2BeRoot]  | [MiniTalk]  | | | | |
-|         | [Printf]       | [So_Long]   | | | | |
-|         | [Get_Next_Line]| [Push_Swap] | | | | |
+| [Libft](https://github.com/maxszlichta/Libft) | [Printf]  | [MiniTalk]  | | | | |
+|         | [Get_Next_Line]       | [So_Long]   | | | | |
+|         | | [Push_Swap] | | | | |
 
 ## <div align="center">![proj](https://github.com/user-attachments/assets/47fb1d16-a994-47ef-9fdd-9fd4efec7dd9)</div>
 I also work on many projects, games, and applications on my own during my free time. Below, you'll find both published and unofficial projects.
